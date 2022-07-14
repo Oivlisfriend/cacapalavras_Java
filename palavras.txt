@@ -1,0 +1,27 @@
+2
+
+8 11
+a a c d e f g h i g g 
+h n j p r o g r a m a
+a g u a k a o o s i t
+w u l k v k f o m c n
+f l q o g a t w i h d
+b a a v x p n s u p w
+s r r a x e t y b r b
+y u i q l x c n b j f
+5
+programa
+java
+angular
+byte
+xpto
+
+5 6
+k h i u s s
+g t t u p z
+h t n m m x
+s u n j l r
+h t m l s l
+2
+html
+sun
